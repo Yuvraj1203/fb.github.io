@@ -1,0 +1,26 @@
+.manual{
+    background-color: #dee1e3;
+
+}
+
+.manual2{
+    padding-top: 52px;
+}
+
+.manualLeft{
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.manualHead{
+    color: rgb(30, 109, 238);
+}
+
+.manualRight{
+    padding-top: 50px;
+}
+
+.newBtn{
+    margin-left: 0%;
+}
